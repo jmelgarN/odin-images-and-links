@@ -1,0 +1,11 @@
+[user]
+	email = jmelgarnieves@aol.com
+	name = Jasmine Melgar Nieves
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
